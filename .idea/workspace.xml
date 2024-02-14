@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pulseitemsentities:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df67b75c-7e2c-430d-b1ed-1b54bb90f3b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PulseItemsEntitiesV1/PulseItemsEntities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PulseItemsEntitiesV1/pulseitemsintities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/API/EntityAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/API/GridXZAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/API/PathfindXZAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Abstract/PulseCitizensEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Abstract/PulseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Abstract/PulseLivingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Citizens/NavigatorCallback/WalkingNPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Citizens/Traits/AgeTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Citizens/Traits/ArmorStandTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Citizens/Traits/LookCloseTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Citizens/Traits/SkinTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Commands/GridXZCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Configs/GridXZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/CustomVariable/GridSquareXZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/CustomVariable/LocXZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Enums/EntityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Events/BlockBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Events/EntitySpawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Events/NPCSpawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Interface/CustomEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Interface/PulseCitizensTimeJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Loops/TimeJobLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/MessageLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/pulseitemsentities_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PulseItemsEntities.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PulseItemsEntities.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/OUT/pulseitemsentities.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pulseitemsintities.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Entity/CustomEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Entity/PulseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Events/Citizens/API/NPCSpawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Java/JavaClassAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/Java/JavaPlugins.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/PulseItemsEntities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/PulseItemsEntities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/pulseitemsentities/TestEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/Entity/CustomEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/Entity/PulseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/Events/Citizens/API/NPCSpawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/Java/JavaClassAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/Java/JavaPlugins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/PulseItemsEntities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/PulseItemsEntities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/pulseitemsentities/TestEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pulseitemsentities-1.0.1-a.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bmSRPVUxBtv9SRYkhjN8D4TES8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding Portfolio/Spigot Plugins/_Servers/Server2/plugins&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.16503906&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2880562&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PulseItemsEntities package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df67b75c-7e2c-430d-b1ed-1b54bb90f3b3" name="Changes" comment="" />
+      <created>1706818751611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706818751611</updated>
+      <workItem from="1706818753807" duration="9641000" />
+      <workItem from="1707002436482" duration="3509000" />
+      <workItem from="1707089922112" duration="20778000" />
+      <workItem from="1707679006770" duration="2820000" />
+      <workItem from="1707923487942" duration="18787000" />
+    </task>
+    <servers />
+  </component>
+</project>

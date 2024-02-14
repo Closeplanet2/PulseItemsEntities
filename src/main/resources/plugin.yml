@@ -1,6 +1,6 @@
 name: PulseItemsEntities
-version: 1.0.1-a
+version: 1.1.5-a
 main: com.pandapulsestudios.pulseitemsentities.PulseItemsEntities
 depend: [PulseCore]
-softdepend: [Citizens, ModelEngine, ItemsAdder]
+softdepend: [Citizens, ModelEngine, ItemsAdder, PulseCommands, PulseCore, PulseConfig]
 api-version: 1.20
